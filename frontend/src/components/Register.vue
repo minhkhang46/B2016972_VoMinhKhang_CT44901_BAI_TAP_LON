@@ -148,7 +148,7 @@ export default {
 }
 
 .bg-image{
-   background-image: url('../images/home/pngtree-minimalism-black-high-end-atmosphere-clock-picture-image_933854.jpg');  
+   background-image: url('../images/pngtree-minimalism-black-high-end-atmosphere-clock-picture-image_933854.jpg');  
 }
 
 .card {
